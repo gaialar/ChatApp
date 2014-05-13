@@ -1,3 +1,7 @@
+Programmers:
+Hulda Lárusdóttir
+Margrét Sesselja Kristjánsdóttir
+
 Installation instructions:
 =========================
 
